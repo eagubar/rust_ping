@@ -23,7 +23,7 @@ A command-line ping utility written in Rust with visual graphs, statistics, and 
 ### Building from Source
 
 ```bash
-git clone https://github.com/yourusername/rust_ping.git
+git clone https://github.com/eagubar/rust_ping.git
 cd rust_ping
 cargo build --release
 The binary will be available at ./target/release/rust_ping
